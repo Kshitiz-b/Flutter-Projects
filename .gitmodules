@@ -37,3 +37,6 @@
 [submodule "Todoey-App"]
 	path = Todoey-App
 	url = https://github.com/Kshitiz-b/Todoey-App.git
+[submodule "Calci-App"]
+	path = Calci-App
+	url = https://github.com/Kshitiz-b/Calci-App.git
