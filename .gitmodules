@@ -10,3 +10,6 @@
 [submodule "Dicee-App"]
 	path = Dicee-App
 	url = https://github.com/Kshitiz-b/Dicee-App.git
+[submodule "Magic8Ball-App"]
+	path = Magic8Ball-App
+	url = https://github.com/Kshitiz-b/Magic8Ball-App.git
