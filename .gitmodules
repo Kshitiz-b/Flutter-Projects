@@ -22,3 +22,6 @@
 [submodule "Destini-App"]
 	path = Destini-App
 	url = https://github.com/Kshitiz-b/Destini-App.git
+[submodule "BMI_Calculator"]
+	path = BMI_Calculator
+	url = https://github.com/Kshitiz-b/BMI_Calculator.git
