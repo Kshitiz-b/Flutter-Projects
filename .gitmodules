@@ -7,3 +7,6 @@
 [submodule "MiCard-App"]
 	path = MiCard-App
 	url = https://github.com/Kshitiz-b/MiCard-App.git
+[submodule "Dicee-App"]
+	path = Dicee-App
+	url = https://github.com/Kshitiz-b/Dicee-App.git
