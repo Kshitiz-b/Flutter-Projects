@@ -34,3 +34,6 @@
 [submodule "FlashChat-App"]
 	path = FlashChat-App
 	url = https://github.com/Kshitiz-b/FlashChat-App.git
+[submodule "Todoey-App"]
+	path = Todoey-App
+	url = https://github.com/Kshitiz-b/Todoey-App.git
