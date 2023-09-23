@@ -1,3 +1,6 @@
 [submodule "i_am_rich"]
 	path = i_am_rich
 	url = https://github.com/Kshitiz-b/i_am_rich.git
+[submodule "I-am-Poor"]
+	path = I-am-Poor
+	url = https://github.com/Kshitiz-b/I-am-Poor.git
