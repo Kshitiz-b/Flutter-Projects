@@ -16,3 +16,6 @@
 [submodule "Xylophone-App"]
 	path = Xylophone-App
 	url = https://github.com/Kshitiz-b/Xylophone-App.git
+[submodule "Quizzler-App"]
+	path = Quizzler-App
+	url = https://github.com/Kshitiz-b/Quizzler-App.git
