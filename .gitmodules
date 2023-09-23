@@ -25,3 +25,6 @@
 [submodule "BMI_Calculator"]
 	path = BMI_Calculator
 	url = https://github.com/Kshitiz-b/BMI_Calculator.git
+[submodule "Clima-App"]
+	path = Clima-App
+	url = https://github.com/Kshitiz-b/Clima-App.git
