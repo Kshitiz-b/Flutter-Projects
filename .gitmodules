@@ -31,3 +31,6 @@
 [submodule "BitcoinTicker-App"]
 	path = BitcoinTicker-App
 	url = https://github.com/Kshitiz-b/BitcoinTicker-App.git
+[submodule "FlashChat-App"]
+	path = FlashChat-App
+	url = https://github.com/Kshitiz-b/FlashChat-App.git
