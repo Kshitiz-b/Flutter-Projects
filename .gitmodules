@@ -1,0 +1,3 @@
+[submodule "i_am_rich"]
+	path = i_am_rich
+	url = https://github.com/Kshitiz-b/i_am_rich.git
