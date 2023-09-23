@@ -4,3 +4,6 @@
 [submodule "I-am-Poor"]
 	path = I-am-Poor
 	url = https://github.com/Kshitiz-b/I-am-Poor.git
+[submodule "MiCard-App"]
+	path = MiCard-App
+	url = https://github.com/Kshitiz-b/MiCard-App.git
