@@ -13,3 +13,6 @@
 [submodule "Magic8Ball-App"]
 	path = Magic8Ball-App
 	url = https://github.com/Kshitiz-b/Magic8Ball-App.git
+[submodule "Xylophone-App"]
+	path = Xylophone-App
+	url = https://github.com/Kshitiz-b/Xylophone-App.git
