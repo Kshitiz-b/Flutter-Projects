@@ -28,3 +28,6 @@
 [submodule "Clima-App"]
 	path = Clima-App
 	url = https://github.com/Kshitiz-b/Clima-App.git
+[submodule "BitcoinTicker-App"]
+	path = BitcoinTicker-App
+	url = https://github.com/Kshitiz-b/BitcoinTicker-App.git
