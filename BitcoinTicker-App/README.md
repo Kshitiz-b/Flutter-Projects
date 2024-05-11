@@ -6,7 +6,4 @@ You can change the Currencies in which the price is displayed from the dropdown 
 
 ## Application Preview
 
-
-https://github.com/Kshitiz-b/bitcoin_ticker-App/assets/95609931/f958d9c0-21be-45d2-8f28-77c6e8351adc
-
-
+https://github.com/Kshitiz-b/Flutter-Projects/assets/95609931/4210509c-9dba-4056-b30e-e1ccfa3db9ff
