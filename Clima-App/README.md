@@ -7,5 +7,4 @@ Then you can click on the Current Location button on the top left corner of the 
 
 ## Application Preview
 
-
-https://github.com/Kshitiz-b/Clima/assets/95609931/4c5003f8-604d-49ae-8a64-e29d43b376ac
+https://github.com/Kshitiz-b/Flutter-Projects/assets/95609931/5a43c967-cba6-4c91-a624-6a3b360c84b8
