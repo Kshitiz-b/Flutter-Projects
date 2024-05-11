@@ -5,7 +5,4 @@ This is a fun story based application. <br>As you read the story, you need to ma
 
 ## Application Preview
 
-
-
-https://github.com/Kshitiz-b/Destini-App/assets/95609931/2cc7509a-dc71-4437-932d-34431dff7667
-
+https://github.com/Kshitiz-b/Flutter-Projects/assets/95609931/e00b6a5d-fdf7-4645-abd2-48d92b8f97e3
