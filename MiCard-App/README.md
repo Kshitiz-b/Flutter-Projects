@@ -5,4 +5,4 @@ My third Flutter project.
 
 ## Preview of the Application
 
-<img src="https://github.com/Kshitiz-b/MiCard/assets/95609931/9eb985a4-2c2d-427a-92ab-8fdca9d81494" width="300" >
+![micard](https://github.com/Kshitiz-b/Flutter-Projects/assets/95609931/fd9c371b-803a-447d-afe2-487802adc42b)
