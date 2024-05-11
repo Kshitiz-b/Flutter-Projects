@@ -6,6 +6,4 @@ Add Tasks. Checkoff Tasks. Remove Tasks.
 
 ## Application Preview
 
-
-https://github.com/Kshitiz-b/Todoey/assets/95609931/4a40da9e-b0fa-4c79-a88b-e725fd66fc9e
-
+https://github.com/Kshitiz-b/Flutter-Projects/assets/95609931/e59d7681-f235-4917-999a-e335c4c249ac
