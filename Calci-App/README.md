@@ -5,4 +5,4 @@ A Simple Calculator App
 
 ## Application Preview
 
-https://github.com/Kshitiz-b/Calci-App/assets/95609931/09bfe4e3-22fd-4d77-938f-217a8a9849fa
+https://github.com/Kshitiz-b/Flutter-Projects/assets/95609931/79f75e7c-f3c0-4390-b261-9386f09a5e3b
