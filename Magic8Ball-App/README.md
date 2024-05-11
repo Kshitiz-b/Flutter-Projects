@@ -6,5 +6,4 @@ Then you can ask the next question and keep on asking. 😃<br>
 In this priject both Stateless and Stateful widgets were used.
 
 ## Application Preview
-
-https://github.com/Kshitiz-b/Magic-8Ball/assets/95609931/1c679d26-a19f-4d58-9de7-428c1129363e
+https://github.com/Kshitiz-b/Flutter-Projects/assets/95609931/575bb484-61ff-4786-853d-8d1c645cdef6
