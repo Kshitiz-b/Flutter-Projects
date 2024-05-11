@@ -5,4 +5,4 @@ With this application you can calculate your BMI and check if you are in Normal,
 
 ## Application Preview
 
-https://github.com/Kshitiz-b/BMI_Calculator/assets/95609931/0ad4713c-d20a-48a1-b086-704aa76df443
+https://github.com/Kshitiz-b/Flutter-Projects/assets/95609931/b96bc973-5559-464f-bfa3-f53f561a405d
